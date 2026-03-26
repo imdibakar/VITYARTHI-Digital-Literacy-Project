@@ -28,6 +28,9 @@ ________________________________________________________________________________
 
 For this task, I used Google Forms to create a Digital Literacy Awareness Quiz for my batchmates. I made a form with 5 questions, including multiple choice and short answer type. The questions were based on basic online safety, password security and general awareness about using internet. 
 I also connected the form to Google Sheets to collect responses, which helped me to see all answers in one place. This is very useful because it saves time and makes data organized. I shared the form link in my README file and also took screenshots of the form and response sheet.
+
+https://forms.gle/HTiamzzeH15B7Bar5- This is the link to the google forms. 
+
 By doing this task, I learned how to create online forms and collect data in simple way. In future, this will help me in projects, surveys and group work. It also improved my digital skills and understanding of online tools which are important for students nowadays.
 
 ------------------------------------------------------------------------------
